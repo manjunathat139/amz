@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="21" passed="21">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="425596" started-at="2021-12-03T11:11:14Z" finished-at="2021-12-03T11:18:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="425596" started-at="2021-12-03T11:11:14Z" finished-at="2021-12-03T11:18:19Z">
+      <class name="com.anahat.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="setUp" is-config="true" duration-ms="9477" started-at="2021-12-03T16:41:21Z" finished-at="2021-12-03T16:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHealthScreeningLinkTest()[pri:1, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="verifyHealthScreeningLinkTest" duration-ms="1756" started-at="2021-12-03T16:41:30Z" finished-at="2021-12-03T16:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHealthScreeningLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="tearDown" is-config="true" duration-ms="757" started-at="2021-12-03T16:41:32Z" finished-at="2021-12-03T16:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="setUp" is-config="true" duration-ms="8483" started-at="2021-12-03T16:41:33Z" finished-at="2021-12-03T16:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="verifyHomePageTitleTest" duration-ms="405" started-at="2021-12-03T16:41:41Z" finished-at="2021-12-03T16:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="tearDown" is-config="true" duration-ms="800" started-at="2021-12-03T16:41:41Z" finished-at="2021-12-03T16:41:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="setUp" is-config="true" duration-ms="8941" started-at="2021-12-03T16:42:59Z" finished-at="2021-12-03T16:43:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginUserTest()[pri:2, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="verifyLoginUserTest" duration-ms="597" started-at="2021-12-03T16:43:07Z" finished-at="2021-12-03T16:43:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginUserTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="tearDown" is-config="true" duration-ms="770" started-at="2021-12-03T16:43:08Z" finished-at="2021-12-03T16:43:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="setUp" is-config="true" duration-ms="9358" started-at="2021-12-03T16:47:20Z" finished-at="2021-12-03T16:47:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAdaultLinkTest()[pri:4, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="verifyAdaultLinkTest" duration-ms="1449" started-at="2021-12-03T16:47:30Z" finished-at="2021-12-03T16:47:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdaultLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="tearDown" is-config="true" duration-ms="779" started-at="2021-12-03T16:47:31Z" finished-at="2021-12-03T16:47:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="setUp" is-config="true" duration-ms="8579" started-at="2021-12-03T16:47:32Z" finished-at="2021-12-03T16:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAdminPanelLinkLinkTest()[pri:5, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="verifyAdminPanelLinkLinkTest" duration-ms="2068" started-at="2021-12-03T16:47:41Z" finished-at="2021-12-03T16:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminPanelLinkLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="tearDown" is-config="true" duration-ms="727" started-at="2021-12-03T16:47:43Z" finished-at="2021-12-03T16:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="setUp" is-config="true" duration-ms="9518" started-at="2021-12-03T16:47:43Z" finished-at="2021-12-03T16:47:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyBbmpDashLinkTest()[pri:6, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="verifyBbmpDashLinkTest" duration-ms="1643" started-at="2021-12-03T16:47:53Z" finished-at="2021-12-03T16:47:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBbmpDashLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="tearDown" is-config="true" duration-ms="769" started-at="2021-12-03T16:47:55Z" finished-at="2021-12-03T16:47:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="setUp" is-config="true" duration-ms="9946" started-at="2021-12-03T16:47:55Z" finished-at="2021-12-03T16:48:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyBbmpDiseaseProfileLinkTest()[pri:7, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="verifyBbmpDiseaseProfileLinkTest" duration-ms="1743" started-at="2021-12-03T16:48:05Z" finished-at="2021-12-03T16:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBbmpDiseaseProfileLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="tearDown" is-config="true" duration-ms="734" started-at="2021-12-03T16:48:07Z" finished-at="2021-12-03T16:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="setUp" is-config="true" duration-ms="9156" started-at="2021-12-03T16:48:08Z" finished-at="2021-12-03T16:48:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyChildrenLinkTest()[pri:8, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="verifyChildrenLinkTest" duration-ms="1516" started-at="2021-12-03T16:48:17Z" finished-at="2021-12-03T16:48:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyChildrenLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.HomePageTest@4667ae56]" name="tearDown" is-config="true" duration-ms="777" started-at="2021-12-03T16:48:18Z" finished-at="2021-12-03T16:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.anahat.qa.testcases.HomePageTest -->
+      <class name="com.anahat.qa.testcases.DemographicPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.DemographicPageTest@204f30ec]" name="setUp" is-config="true" duration-ms="8343" started-at="2021-12-03T16:41:55Z" finished-at="2021-12-03T16:42:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyDemographicPageTitleTest()[pri:1, instance:com.anahat.qa.testcases.DemographicPageTest@204f30ec]" name="verifyDemographicPageTitleTest" duration-ms="19658" started-at="2021-12-03T16:42:03Z" finished-at="2021-12-03T16:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDemographicPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.DemographicPageTest@204f30ec]" name="tearDown" is-config="true" duration-ms="1182" started-at="2021-12-03T16:42:23Z" finished-at="2021-12-03T16:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.DemographicPageTest@204f30ec]" name="setUp" is-config="true" duration-ms="8744" started-at="2021-12-03T16:43:39Z" finished-at="2021-12-03T16:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyDemographicDeatilesTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.anahat.qa.testcases.DemographicPageTest@204f30ec]" name="verifyDemographicDeatilesTest" duration-ms="25041" started-at="2021-12-03T16:43:47Z" data-provider="getAnahatTestData" finished-at="2021-12-03T16:44:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3.65173589367E11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8.729076533E9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Manju]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bb23mp98]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDemographicDeatilesTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.DemographicPageTest@204f30ec]" name="tearDown" is-config="true" duration-ms="812" started-at="2021-12-03T16:44:12Z" finished-at="2021-12-03T16:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.DemographicPageTest@204f30ec]" name="setUp" is-config="true" duration-ms="9608" started-at="2021-12-03T16:44:13Z" finished-at="2021-12-03T16:44:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyDemographicDeatilesTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.anahat.qa.testcases.DemographicPageTest@204f30ec]" name="verifyDemographicDeatilesTest" duration-ms="24223" started-at="2021-12-03T16:44:23Z" data-provider="getAnahatTestData" finished-at="2021-12-03T16:44:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3.4627389928E11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9.733941006E9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Lavanya]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bbmp1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDemographicDeatilesTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.DemographicPageTest@204f30ec]" name="tearDown" is-config="true" duration-ms="793" started-at="2021-12-03T16:44:47Z" finished-at="2021-12-03T16:44:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.anahat.qa.testcases.DemographicPageTest -->
+      <class name="com.anahat.qa.testcases.ReportPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="8988" started-at="2021-12-03T16:42:24Z" finished-at="2021-12-03T16:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyReportPageTitleTest()[pri:1, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="verifyReportPageTitleTest" duration-ms="19037" started-at="2021-12-03T16:42:33Z" finished-at="2021-12-03T16:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReportPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="tearDown" is-config="true" duration-ms="1241" started-at="2021-12-03T16:42:52Z" finished-at="2021-12-03T16:42:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="9276" started-at="2021-12-03T16:44:48Z" finished-at="2021-12-03T16:44:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VitalReportTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="VitalReportTest" duration-ms="25773" started-at="2021-12-03T16:44:57Z" data-provider="getAnahatTestData" finished-at="2021-12-03T16:45:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[something]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VitalReportTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="tearDown" is-config="true" duration-ms="809" started-at="2021-12-03T16:45:23Z" finished-at="2021-12-03T16:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="9191" started-at="2021-12-03T16:45:24Z" finished-at="2021-12-03T16:45:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VitalReportTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="VitalReportTest" duration-ms="25998" started-at="2021-12-03T16:45:33Z" data-provider="getAnahatTestData" finished-at="2021-12-03T16:45:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18.3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[try]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[345.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VitalReportTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="tearDown" is-config="true" duration-ms="800" started-at="2021-12-03T16:45:59Z" finished-at="2021-12-03T16:46:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="9599" started-at="2021-12-03T16:46:00Z" finished-at="2021-12-03T16:46:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VitalReportTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="VitalReportTest" duration-ms="25611" started-at="2021-12-03T16:46:09Z" data-provider="getAnahatTestData" finished-at="2021-12-03T16:46:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[50.4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[something and try]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[183.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VitalReportTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="tearDown" is-config="true" duration-ms="795" started-at="2021-12-03T16:46:35Z" finished-at="2021-12-03T16:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="9729" started-at="2021-12-03T16:46:45Z" finished-at="2021-12-03T16:46:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="DiagnosisReportTest()[pri:3, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="DiagnosisReportTest" duration-ms="24379" started-at="2021-12-03T16:46:55Z" finished-at="2021-12-03T16:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DiagnosisReportTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.ReportPageTest@e25b2fe]" name="tearDown" is-config="true" duration-ms="815" started-at="2021-12-03T16:47:20Z" finished-at="2021-12-03T16:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.anahat.qa.testcases.ReportPageTest -->
+      <class name="com.anahat.qa.testcases.HealthScreeningPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.HealthScreeningPageTest@77cd7a0]" name="setUp" is-config="true" duration-ms="9393" started-at="2021-12-03T16:41:42Z" finished-at="2021-12-03T16:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHealthScreeningPageTitleTest()[pri:1, instance:com.anahat.qa.testcases.HealthScreeningPageTest@77cd7a0]" name="verifyHealthScreeningPageTitleTest" duration-ms="2558" started-at="2021-12-03T16:41:52Z" finished-at="2021-12-03T16:41:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHealthScreeningPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.HealthScreeningPageTest@77cd7a0]" name="tearDown" is-config="true" duration-ms="811" started-at="2021-12-03T16:41:54Z" finished-at="2021-12-03T16:41:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.HealthScreeningPageTest@77cd7a0]" name="setUp" is-config="true" duration-ms="9400" started-at="2021-12-03T16:43:09Z" finished-at="2021-12-03T16:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyGenderTest()[pri:2, instance:com.anahat.qa.testcases.HealthScreeningPageTest@77cd7a0]" name="verifyGenderTest" duration-ms="18569" started-at="2021-12-03T16:43:18Z" finished-at="2021-12-03T16:43:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGenderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.HealthScreeningPageTest@77cd7a0]" name="tearDown" is-config="true" duration-ms="1208" started-at="2021-12-03T16:43:37Z" finished-at="2021-12-03T16:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.anahat.qa.testcases.HealthScreeningPageTest -->
+      <class name="com.anahat.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.LoginPageTest@1a968a59]" name="setUp" is-config="true" duration-ms="6232" started-at="2021-12-03T16:41:14Z" finished-at="2021-12-03T16:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitle()[pri:1, instance:com.anahat.qa.testcases.LoginPageTest@1a968a59]" name="loginPageTitle" duration-ms="17" started-at="2021-12-03T16:41:20Z" finished-at="2021-12-03T16:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.LoginPageTest@1a968a59]" name="tearDown" is-config="true" duration-ms="715" started-at="2021-12-03T16:41:20Z" finished-at="2021-12-03T16:41:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.LoginPageTest@1a968a59]" name="setUp" is-config="true" duration-ms="4272" started-at="2021-12-03T16:42:53Z" finished-at="2021-12-03T16:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="anahatLogoImageTest()[pri:2, instance:com.anahat.qa.testcases.LoginPageTest@1a968a59]" name="anahatLogoImageTest" duration-ms="54" started-at="2021-12-03T16:42:58Z" finished-at="2021-12-03T16:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- anahatLogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.LoginPageTest@1a968a59]" name="tearDown" is-config="true" duration-ms="718" started-at="2021-12-03T16:42:58Z" finished-at="2021-12-03T16:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.anahat.qa.testcases.LoginPageTest@1a968a59]" name="setUp" is-config="true" duration-ms="4705" started-at="2021-12-03T16:46:36Z" finished-at="2021-12-03T16:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.anahat.qa.testcases.LoginPageTest@1a968a59]" name="loginTest" duration-ms="4165" started-at="2021-12-03T16:46:41Z" finished-at="2021-12-03T16:46:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anahat.qa.testcases.LoginPageTest@1a968a59]" name="tearDown" is-config="true" duration-ms="769" started-at="2021-12-03T16:46:45Z" finished-at="2021-12-03T16:46:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.anahat.qa.testcases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

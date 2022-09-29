@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Anahat Application App Test Suite]">
+  <test name="Anahat Application App Test Cases(failed)">
+    <classes>
+      <class name="com.anahat.qa.testcases.HomePageTest">
+        <methods>
+          <include name="verifyAdaultLinkTest"/>
+          <include name="verifyBbmpDiseaseProfileLinkTest"/>
+          <include name="verifyLoginUserTest"/>
+          <include name="verifyBbmpDashLinkTest"/>
+          <include name="verifyHealthScreeningLinkTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="verifyAdminPanelLinkLinkTest"/>
+          <include name="verifyChildrenLinkTest"/>
+          <include name="verifyHomePageTitleTest"/>
+        </methods>
+      </class> <!-- com.anahat.qa.testcases.HomePageTest -->
+      <class name="com.anahat.qa.testcases.LoginPageTest">
+        <methods>
+          <include name="loginTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="anahatLogoImageTest"/>
+          <include name="loginPageTitle"/>
+        </methods>
+      </class> <!-- com.anahat.qa.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- Anahat Application App Test Cases(failed) -->
+</suite> <!-- Failed suite [Anahat Application App Test Suite] -->

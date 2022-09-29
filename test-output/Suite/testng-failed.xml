@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.anahat.qa.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.anahat.qa.testcases.DemographicPageTest">
+        <methods>
+          <include name="verifyDemographicPageTitleTest"/>
+          <include name="tearDown"/>
+          <include name="verifyDemographicDeatilesTest" invocation-numbers="0 1"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.anahat.qa.testcases.DemographicPageTest -->
+      <class name="com.anahat.qa.testcases.HealthScreeningPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyGenderTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.anahat.qa.testcases.HealthScreeningPageTest -->
+      <class name="com.anahat.qa.testcases.ReportPageTest">
+        <methods>
+          <include name="VitalReportTest" invocation-numbers="0 1 2"/>
+          <include name="verifyReportPageTitleTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="DiagnosisReportTest"/>
+        </methods>
+      </class> <!-- com.anahat.qa.testcases.ReportPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
